@@ -3,8 +3,8 @@ require "formula"
 class Dpctl < Formula
   desc "DataPower Control tool"
   homepage "http://dpctl.org"
-  url "https://github.com/dpctl/dpctl/releases/download/v0.2.1/dpctl-standalone-0.2.1.jar"
-  version "0.2.1"
+  url "https://github.com/dpctl/dpctl/releases/download/v0.2.4/dpctl-standalone-0.2.4.jar"
+  version "0.2.4"
   sha256 ""
 
   bottle :unneeded
